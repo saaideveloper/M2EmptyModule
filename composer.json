@@ -1,5 +1,5 @@
 {
-    "name": "Wcs_M2EmptyModule",
+    "name": "Wcs/M2EmptyModule",
     "description": "M2 Empty Module",
     "require": {
         "php": "^5.6|^7.0|^7.1",
@@ -20,7 +20,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Wcs\\M2EmptyModule\\": ""
+            "Wcs\\Wcs_M2EmptyModule\\": ""
         }
     }
 }
