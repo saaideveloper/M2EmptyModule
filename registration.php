@@ -1,6 +1,6 @@
 <?php
 use \Magento\Framework\Component\ComponentRegistrar;
 ComponentRegistrar::register(ComponentRegistrar::MODULE,
-	'Bitbull_Common',
+	'Saaideveloper_M2emptyModule',
 	__DIR__
 );
