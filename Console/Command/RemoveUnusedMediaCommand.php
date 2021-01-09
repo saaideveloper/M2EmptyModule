@@ -1,6 +1,6 @@
 <?php
 
-namespace Absolute\DataCleaner\Console\Command;
+namespace Saaideveloper\M2emptyModule\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Helper\Table;
