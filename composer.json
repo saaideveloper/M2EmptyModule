@@ -20,7 +20,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Wcs\\Wcs_M2EmptyModule\\": ""
+            "Saaideveloper\\Saaideveloper_Emptymodule\\": ""
         }
     }
 }
