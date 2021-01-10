@@ -3,7 +3,7 @@
     <type name="Magento\Framework\Console\CommandList">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="saaideveloper:clean:unused-media" xsi:type="object">Saaideveloper\M2emptyModule\Console\Command\RemoveUnusedMediaCommand</item>
+                <item name="saaideveloper:clean:unused-media" xsi:type="object">Saaideveloper\Emptymodule\Console\Command\RemoveUnusedMediaCommand</item>
             </argument>
         </arguments>
     </type>

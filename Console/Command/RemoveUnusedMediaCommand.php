@@ -1,6 +1,6 @@
 <?php
 
-namespace Saaideveloper\M2emptyModule\Console\Command;
+namespace Saaideveloper\Emptymodule\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Helper\Table;
